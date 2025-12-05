@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/wchan/Downloads/nyufall25/cpp",
+      "program": "/Users/wchan/Downloads/nyufall25/cpp/build/Debug/outDebug"
+    }
+  ]
+}
